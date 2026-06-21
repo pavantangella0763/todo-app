@@ -1,0 +1,3 @@
+/* Reuse the existing design tokens/stylesheet from the plain frontend */
+@import url('../../styles.css');
+
